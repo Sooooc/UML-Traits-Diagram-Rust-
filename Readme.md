@@ -8,7 +8,6 @@ It is a simple Rust program that implements geometric shapes in traits programmi
 The following image represents a trait diagram for this example. 
 
 ![My Image](images/UML-Trait-Diagram.png)
-
 ## Execution 
 To execute this program, we simply run: 
 ``` 
